@@ -12,25 +12,7 @@ neurons delinearize the problem as a matrix, making tuning the network faster an
 
 inputs are fed into the model to generate output and tune cost
 
-Naive Deep Q Learning in Code
----
-### _Step 1 - Coding the Deep Q Network_
-
-Naive Deep Q Learning in Code
----
-### _Step 2 - Coding the Agent Class_
-
-Naive Deep Q Learning in Code
----
-### _Step 3 - Coding the Main Loop and Learning_
-
-Naive Deep Q Learning in Code
----
-### _Step 4 - Verifying the Functionality of Our Code_
-
-Naive Deep Q Learning in Code
----
-### _Step 5 - Analyzing Our Agent's Performance_
-
 Dealing with Screen Images with Convolutional Neural Networks
 ---
+
+As we progress further, we will need to input visual data

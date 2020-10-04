@@ -30,7 +30,7 @@ class Trainer():
             if (i + 1) % 100 == 0:
                 average = np.mean(scores[-100:])
                 win_pct.append(average)
-            if (i + 1) % (self.n_episodes * 0.1) == 0:
-                print(self.agent.epsilon, average)
+            if (i + 1) % (self.n_episodes * 0.025) == 0:
+                print(i + 1, self.agent.epsilon, average)
 
         return win_pct
